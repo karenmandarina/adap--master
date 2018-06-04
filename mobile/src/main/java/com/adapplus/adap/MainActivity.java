@@ -27,6 +27,7 @@ import static android.R.attr.bitmap;
 
 public class MainActivity extends AppCompatActivity {
     //declaring the editText for the custom command
+    //These are my change comments. Melissa sucks.
     private EditText editText;
     //declaring the Button for custom command
     private Button actionButton;
