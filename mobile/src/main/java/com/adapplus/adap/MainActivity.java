@@ -5,9 +5,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.media.AudioManager;
+import android.os.Bundle;
 import android.support.v4.app.NotificationManagerCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.app.NotificationCompat;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -21,13 +21,11 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.text.DateFormat;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Date;
-import static android.R.attr.bitmap;
 
 public class MainActivity extends AppCompatActivity {
     //declaring the editText for the custom command
-    //These are my change comments. Melissa sucks.
+    //These are my change comments. Melissa sucks!!!
     private EditText editText;
     //declaring the Button for custom command
     private Button actionButton;
