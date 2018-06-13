@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "533539241494",
+    "firebase_url": "https://adap2-2030e.firebaseio.com",
+    "project_id": "adap2-2030e",
+    "storage_bucket": "adap2-2030e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533539241494:android:3bb9c9ba90896ed8",
+        "android_client_info": {
+          "package_name": "com.adaptwo.adap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533539241494-v0bu62gu5i5ohidql4tcgvtarbuqq7ge.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "533539241494-v0bu62gu5i5ohidql4tcgvtarbuqq7ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsoBBvzrN-yC2_EO71qWn6t6CH_ETjdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

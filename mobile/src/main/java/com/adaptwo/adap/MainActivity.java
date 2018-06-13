@@ -1,4 +1,4 @@
-package com.adapplus.adap;
+package com.adaptwo.adap;
 
 import android.app.Notification;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.media.AudioManager;
 import android.os.Bundle;
+import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.app.NotificationCompat;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.View;

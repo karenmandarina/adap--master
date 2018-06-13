@@ -1,4 +1,4 @@
-package com.adapplus.adap;
+package com.adaptwo.adap;
 
 import android.app.Activity;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.adapplus.adap;
+package com.adaptwo.adap;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -13,10 +13,8 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.StringTokenizer;
 
-import static com.adapplus.adap.R.id.text;
-import static com.adapplus.adap.R.id.textView4;
+import static com.adaptwo.adap.R.id.textView4;
 
 public class DataLog extends AppCompatActivity {
     //creating array for storing command data

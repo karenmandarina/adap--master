@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.adapplus.adap">
+    package="com.adaptwo.adap">
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
@@ -17,18 +18,18 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".MainActivity" />
-        <activity android:name=".SplashScreen">
+        <activity android:name="com.adaptwo.adap.MainActivity" />
+        <activity android:name="com.adaptwo.adap.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Tutorial" />
-        <activity android:name=".MainMenu" />
-        <activity android:name=".DataLog" />
-        <activity android:name=".Settings"></activity>
+        <activity android:name="com.adaptwo.adap.Tutorial" />
+        <activity android:name="com.adaptwo.adap.MainMenu" />
+        <activity android:name="com.adaptwo.adap.DataLog" />
+        <activity android:name="com.adaptwo.adap.Settings"></activity>
     </application>
 
 </manifest>
